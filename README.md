@@ -20,4 +20,3 @@ This is a project for 3d module's (lesson 6) final task:
 
 Столкнулась с тем, что информация в курсе немного устарела(?):
 1) ловила deprecationWarning при использовании profiles в Firefox, для него в Selenium введен Options
-2) в Chrome появлялась ошибка AttributeError: 'Options' object has no attribute 'add_experimental_option', воспользовалась конструктором ChromeOptions()
